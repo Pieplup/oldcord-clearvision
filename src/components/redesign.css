@@ -716,12 +716,6 @@
 		background: var(--background-tertiary) !important;
 	}
 
-	/* discord logo */
-	.childWrapper__6e9f8 svg {
-		height: 30px !important;
-		width: 30px !important;
-	}
-
 	/* sliders & bars */
 	.slider_a562c8 {
 		--grabber-size: 16px !important;
