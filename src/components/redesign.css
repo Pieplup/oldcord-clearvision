@@ -571,25 +571,6 @@
 		display: none;
 	}
 	/* user panel */
-	.base_c48ade .sidebar_c48ade > .panels_c48ade {
-		grid-area: panels;
-		position: static;
-		inset: auto;
-		.avatar__37e49.wrapper__44b0c {
-			width: 32px !important;
-			height: 32px !important;
-			svg {
-				width: 40px;
-				height: 40px;
-			}
-		}
-		.panel__5dec7 {
-			background-color: var(--background-secondary-alt);
-		    border-top-left-radius: unset;
-		    border-top-right-radius: unset;
-		    border-bottom: unset;
-		}
-	}
 	.toolbar__9293f > .iconWrapper__9293f {
 		height: 24px !important;
 		width: auto !important;
